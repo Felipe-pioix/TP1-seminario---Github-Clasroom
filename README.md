@@ -30,5 +30,7 @@
 
  * Reviews
   * obligatory Reviews
- * Fetch 
+## github desktop & Atom
+ * Fetch
  * Push
+ * Staged vs Unstaged Changes
