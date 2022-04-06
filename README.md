@@ -47,7 +47,7 @@ Descargar e instalar github desktop y el editor Atom (google it!!!)
 
 \[ayuda\]
 #### Abajo a la derecha:
-![captura de barra de estado de atom](atom.jpg)
+![captura de barra de estado de atom](Atom.jpg)
 
 * ![](lenguaje.jpg) => Lenguaje del editor
 * ![](branch.jpg) Branch Actual
