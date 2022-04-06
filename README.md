@@ -43,9 +43,11 @@ Descargar e instalar github desktop y el editor Atom (google it!!!)
 
  * Reviews
   * obligatory Reviews
- * Fetch
- * Push
- * Staged vs Unstaged Changes
+ * en atom y github desktop
+  * Fetch
+  * Push
+  * Staged vs Unstaged Changes
+ 
 ## github desktop & Atom (Trabajo Local)
 
 \[ayuda\]
