@@ -62,14 +62,16 @@ Primero Guardar en atom (modificar el archivo)
 Despues:
 (si se quiere hacer el commit en Atom)      
 1.    en el menu de GIT, doble click sobre el archivo con "unstaged changes" ( ahora son staged changes; click simple muestra los cambios en una pestaña nueva)
-2. agregar el mensajje de commit y aoretar Commit to \[branch\]
+2. agregar el mensaje de commit y aoretar Commit to \[branch\]
 
 3. ahora podemos pushear (abajo a la derecha: click en Push 1)
-4. commit realizado, eventualmente habria que hacer un Pull, hacemis click(abajo a la derecha) en GitHub y nos muestra el menu para hacer el Pull Request
+4. commit realizado, eventualmente habria que hacer un Pull, hacemos click(abajo a la derecha) en GitHub y nos muestra el menu para hacer el Pull Request
 
 #### Para trabajar con Github Desktop
 Primero Guardar en atom o hacer una modificacion en el repo
-Commit
+ 1. escribir el comentario del Commit si no esta escrito
+ 2.hacer el commit (Local)
+ 3. hacer el Push ("commit" en la nube)
 
 \[ayuda\]
  * Fetch
