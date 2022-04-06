@@ -43,6 +43,9 @@ Descargar e instalar github desktop y el editor Atom (google it!!!)
 
  * Reviews
   * obligatory Reviews
+ * Fetch
+ * Push
+ * Staged vs Unstaged Changes
 ## github desktop & Atom (Trabajo Local)
 
 \[ayuda\]
@@ -74,6 +77,4 @@ Primero Guardar en atom o hacer una modificacion en el repo
  3. hacer el Push ("commit" en la nube)
 
 \[ayuda\]
- * Fetch
- * Push
- * Staged vs Unstaged Changes
+
